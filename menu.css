@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+/* this is a comment in css */
+
+/*
+ol {
+    list-style-type:none;
+}
+*/
